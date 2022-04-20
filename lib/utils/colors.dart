@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const Color kLandingBgColor = Color(0xFFFDEDB8);
+const Color kDecorColor = Color(0xFFDF6D5D);
+const Color kTextPrimaryColor = Color(0xFF2E2823);
+const Color kBgColor = Color(0xFFFAE9E1);
+const Color kSelectedItemColor = Color(0xFFAB6051);
+const Color kUnSelectedItemColor = Color(0xFFBFC1C4);
+const Color kBottomNavBgColor = Color(0xFF1B2028);
+const Color kHintTextColor = Color(0xFFAAAAAA);
+const Color kSelectedTabColor = Color(0xFFFC8B6F);
+const Color kUnSelectedTabColor = Color(0xFFA49D99);
+const Color kLeadingIconColor = Color(0xFFFDF6F4);
+const Color kSubtitleTextColor = Color(0xFF8C817A);
+const Color kFirstProductColor = Color(0xFF82A99E);
+const Color kSecondProductColor = Color(0xFFBDB8AA);
+const Color kThirdProductColor = Color(0xFFF2B6AF);
+const Color kCounterBgColor = Color(0xFFF2E1DB);
+const Color kIndicatorColor = Color(0xFFFD7350);
+const Color kLandingSmallCircleColor = Color(0xFFEE9891);
