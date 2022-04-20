@@ -1,6 +1,6 @@
-# decor_app
+# Decor App
 
-Mobile Engineer Translation Test Writen in Flutter
+Mobile Engineer Translation Test written in Flutter
 
 ## Getting Started
 
