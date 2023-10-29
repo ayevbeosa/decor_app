@@ -1,16 +1,5 @@
 # Decor App
 
-Mobile Engineer Translation Test written in Flutter
+Implementation of a Decor App based on https://dribbble.com/shots/17702360-Decor-App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/168f51130511339.6181b42a3303d.png" />
